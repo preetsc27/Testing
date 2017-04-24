@@ -34,4 +34,8 @@ public class GoodLayout extends AppCompatActivity {
 
 
     }
+
+    public void dhandhanramdasguru(){
+        //you are the besk
+    }
 }
