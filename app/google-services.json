@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "876313084106",
+    "firebase_url": "https://testing-2ac31.firebaseio.com",
+    "project_id": "testing-2ac31",
+    "storage_bucket": "testing-2ac31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876313084106:android:f4121bc7415d8da5",
+        "android_client_info": {
+          "package_name": "com.example.root.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876313084106-2nuongh8cs3i5r6gnslcg4o1c253t6bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI_f7-4zZVY4d8h818i_vpzeqe2fbSZAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876313084106:android:b868bd8baff38a41",
+        "android_client_info": {
+          "package_name": "in.grdtech.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876313084106-2nuongh8cs3i5r6gnslcg4o1c253t6bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI_f7-4zZVY4d8h818i_vpzeqe2fbSZAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
