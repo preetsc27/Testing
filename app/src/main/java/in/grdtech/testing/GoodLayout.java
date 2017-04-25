@@ -11,7 +11,6 @@ import android.widget.TextView;
 
 import com.google.android.gms.common.SignInButton;
 
-import java.lang.reflect.Array;
 
 public class GoodLayout extends AppCompatActivity {
 
@@ -34,6 +33,4 @@ public class GoodLayout extends AppCompatActivity {
 
 
     }
-
-
 }
