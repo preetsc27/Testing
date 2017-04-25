@@ -35,7 +35,5 @@ public class GoodLayout extends AppCompatActivity {
 
     }
 
-    public void dhandhanramdasguru(){
-        //dhan dhan grd ji
-    }
+
 }
